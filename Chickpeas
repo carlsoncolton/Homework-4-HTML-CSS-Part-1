@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Roasted Chickpeas</title>
+</head>
+<body>
+<div>
+    <h1>Roasted Chickpeas</h1>
+    <br>
+    <h2>Ingredients:</h2>
+    <ul>
+        <li>Canned chickpeas (also known as garbanzo beans)</li>
+        <li>Extra virgin olive oil</li>
+        <li>Chili powder</li>
+        <li>Ground cumin</li>
+        <li>Lime zest</li>
+        <li>Lime juice</li>
+        <li>Sea salt</li>
+    </ul>
+<div>
+<div>
+    <img src="Images/Chickpeas.jpg">
+</div>
+<div>
+    <h2>Instructions:<h2>
+    <ol>
+        <li>Line a 15x10x1-inch baking sheet with foil. Spread the chickpeas in a single layer over the foil, removing any loose skins.</li>
+        <li>Bake the chickpeas at 400ºF for 40 to 45 minutes, stirring every 15 minutes or so. When fully baked, they’ll be crunchy.</li>
+        <li>Meanwhile, whisk together the extra virgin olive oil, chili powder, ground cumin, grated lime zest, lime juice and sea salt.</li>
+        <li>Remove the chickpeas from the oven and let them cool for 5 minutes. Drizzle them with the oil mixture and shake the pan to coat. Cool completely.</li>
+    <ol>
+</body>
+</html>
